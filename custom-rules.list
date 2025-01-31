@@ -1,0 +1,19 @@
+# 分流规则配置片段包含若干条分流规则；可通过资源引用的方式使用。
+# 片段文件将保存在 Quantumult X 目录下的 Profiles 子目录中。
+# 样例可参见 https://raw.githubusercontent.com/crossutility/Quantumult-X/master/filter.snippet
+ 
+#自定义分流规则
+host-suffix, battle.net, proxy
+host-suffix, microsoft.com, proxy
+host-suffix, vk.com, proxy
+host-suffix, apkpure.com, proxy
+host-suffix, hoyoverse.com, proxy
+host-suffix, 857fan.com, proxy
+host-suffix, evozi.com, proxy
+host-suffix, konami.com, proxy
+host-suffix, githubusercontent.com, proxy
+host-suffix, telghub.com, proxy
+host-suffix, callofduty.com, proxy
+host-suffix, x.com, proxy
+host-suffix, twitter.com, proxy
+host-suffix, apk.support, proxy
