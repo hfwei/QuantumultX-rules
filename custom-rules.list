@@ -3,8 +3,6 @@
 # 样例可参见 https://raw.githubusercontent.com/crossutility/Quantumult-X/master/filter.snippet
  
 #自定义分流规则
-host-suffix, battle.net, proxy
-host-suffix, microsoft.com, proxy
 host-suffix, vk.com, proxy
 host-suffix, apkpure.com, proxy
 host-suffix, hoyoverse.com, proxy
