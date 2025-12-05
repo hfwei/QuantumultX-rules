@@ -15,12 +15,3 @@ host-suffix, livegore.com, proxy
 host-suffix, heavy-r.com, proxy
 host-suffix, 91porn.com, proxy
 host-suffix, cool18.com, proxy
- 
-# 屏蔽macos系统更新
-host-suffix, swdist.apple.com, reject
-host-suffix, swscan.apple.com, reject
-host-suffix, swcdn.apple.com, reject
-host-suffix, gdmf.apple.com, reject
-host-suffix, mesu.apple.com, reject
-host-suffix, xp.apple.com, reject
-host-suffix, bpapi.apple.com, reject
