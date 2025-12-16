@@ -21,4 +21,4 @@ host-suffix, steampowered.com, proxy
 host-suffix, steamcommunity.com, proxy
 
 # 直连网址
-host-suffix, jsdelivr.net, direct
+host-suffix, cdn.jsdelivr.net, direct
