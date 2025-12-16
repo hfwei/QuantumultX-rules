@@ -16,5 +16,7 @@ host-suffix, heavy-r.com, proxy
 host-suffix, 91porn.com, proxy
 host-suffix, cool18.com, proxy
 host-suffix, v2ex.com, proxy
-host-suffix, steampowered.com
-host-suffix, steamcommunity.com
+host-suffix, steampowered.com, proxy
+host-suffix, steamcommunity.com, proxy
+host-suffix, steamserver.net, proxy
+host-suffix, steamstatic.com, proxy
