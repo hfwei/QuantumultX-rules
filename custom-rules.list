@@ -22,6 +22,7 @@ host-suffix, steampowered.com, proxy
 host-suffix, steamcommunity.com, proxy
 host-suffix, md5online.org, proxy
 host-suffix, cloudflare.com, proxy
+host-suffix, cdn.jsdelivr.net, proxy
 
 # 直连网址
-host-suffix, cdn.jsdelivr.net, direct
+# host-suffix, cdn.jsdelivr.net, direct
