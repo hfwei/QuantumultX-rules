@@ -26,3 +26,12 @@ host-suffix, cdn.jsdelivr.net, proxy
 
 # 直连网址
 # host-suffix, cdn.jsdelivr.net, direct
+
+# 拒绝访问网址
+# 禁止macOS系统更新检测
+host, swscan.apple.com, reject
+host, swdist.apple.com, reject
+host, swcdn.apple.com, reject
+host, gdmf.apple.com, reject
+host, mesu.apple.com, reject
+host, xp.apple.com, reject
