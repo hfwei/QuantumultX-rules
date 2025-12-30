@@ -4,6 +4,7 @@
  
 # 自定义分流规则
 # 走代理网址
+host, lookup-api.apple.com, proxy
 host-suffix, apkpure.com, proxy
 host-suffix, terraria.wiki.gg, proxy
 host-suffix, evozi.com, proxy
@@ -21,7 +22,6 @@ host-suffix, steampowered.com, proxy
 host-suffix, steamcommunity.com, proxy
 host-suffix, md5online.org, proxy
 host-suffix, cloudflare.com, proxy
-host-suffix, lookup-api.apple.com, proxy
 
 # 直连网址
 host-suffix, cdn.jsdelivr.net, direct
