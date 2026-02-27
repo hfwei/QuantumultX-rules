@@ -24,6 +24,7 @@ host-suffix, md5online.org, proxy
 host-suffix, cloudflare.com, proxy
 host-suffix, cdn.jsdelivr.net, proxy
 host-suffix, minecraft.wiki, proxy
+ip-cidr, 151.97.6.7/24, proxy
 
 # 直连网址
 # host-suffix, cdn.jsdelivr.net, direct
